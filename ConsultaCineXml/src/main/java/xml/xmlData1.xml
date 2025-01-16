@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE peliculas SYSTEM "xmlData1.dtd">
+
+<peliculas>
+ 
+    <pelicula id="1">
+       <titulo>El resplandor</titulo>
+       <director>Stanley Kubrick</director>
+       <actor>Jack Nicholson</actor>
+    </pelicula>
+
+   <pelicula id="2">
+      <titulo>La naranja mecanica</titulo>
+      <director>Stanley Kubrick</director>
+      <actor>Malcolm McDowell</actor>
+    </pelicula>
+
+       
+    <pelicula id="3">
+      <titulo>El padrino</titulo>
+      <director>Francis Ford Coppola</director>
+      <actor>Al Pacino</actor>
+    </pelicula>
+
+</peliculas>
+
+
+
+
+
+
+
+
